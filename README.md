@@ -11,3 +11,7 @@ Download `geo-plot.html` and open it with a browser.
 It's a single HTML file with no backend or network access.
 
 Feel free to request changes via a GitHub Issue or Discussion.
+
+### Demo
+
+![Demo](demo.gif)
