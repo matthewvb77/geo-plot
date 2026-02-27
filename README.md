@@ -2,7 +2,7 @@
 
 A tool for quickly creating ternary diagrams.
 
-### To Use
+### To use
 
 Download `geo-plot.html` and open it with a browser.
 
